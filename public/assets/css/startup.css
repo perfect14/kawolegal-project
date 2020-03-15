@@ -1,0 +1,82 @@
+.header{
+	background-color: brown;
+	height: 70px;
+}
+
+.logo{padding-top: 10px;
+
+}
+
+.think{
+	margin-left: 100px;
+}
+
+.zoom{
+	padding-top:50px; 
+	padding-left: 10px;
+	color: lightblue;
+}
+
+.footer{
+	background-color: brown;
+	height: 30px;
+	border: solid 1px;
+}
+
+.sleek{
+	margin-top: 80px;
+	color: lightblue;
+}
+
+.slate{
+	margin-top: 70px;
+	color: lightblue;
+
+}
+
+.link{
+	float: right;
+	margin-top: 20px;
+	color: red;
+}
+
+.tabs{
+	
+	color: red;
+}
+
+
+.search{
+	
+	margin-top: 20px;
+	margin-left: 150px;
+	width: 1000px;
+}
+
+.bud{
+	float: right;
+	margin-right: 220px;
+	margin-top: -0.2px;
+
+}
+
+.sea{
+	float: right;
+	margin-right: 157px;
+	margin-top: -35px;
+	height: 34px;
+	border-radius: 8px;
+
+}
+.active{
+	background-color: transparent;
+	color: red;
+}
+
+.copyright{
+	text-align: left;
+	padding-left: 30px;
+	color: white;
+	padding-top: 10px;
+
+}
